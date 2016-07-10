@@ -12,7 +12,7 @@ Recursos TIC para el aula
 
 * [@educacontic](https://twitter.com/educacontic) del [@INTEF](https://twitter.com/educaintef)
 
-## Herramientas
+## Herramientas de creación de recursos
 
 * [Ren'Py](https://www.renpy.org/): motor de narraciones visuales interactivas
 
@@ -20,3 +20,9 @@ Recursos TIC para el aula
 
 * [ClassDojo](https://www.classdojo.com/es-es/)
 * [ClassCraft](http://www.classcraft.com/es/)
+
+## Gestión de aula
+
+* [Moodle](https://moodle.org/)
+* [Edmodo](https://www.edmodo.com/?language=es)
+* [Google Classroom](https://classroom.google.com/)
