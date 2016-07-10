@@ -11,3 +11,12 @@ Recursos TIC para el aula
 ## Cuentas twitter sobre recursos TIC
 
 * [@educacontic](https://twitter.com/educacontic) del [@INTEF](https://twitter.com/educaintef)
+
+## Herramientas
+
+* [Ren'Py](https://www.renpy.org/): motor de narraciones visuales interactivas
+
+## Gamificación
+
+* [ClassDojo](https://www.classdojo.com/es-es/)
+* [ClassCraft](http://www.classcraft.com/es/)
