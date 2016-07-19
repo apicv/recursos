@@ -20,6 +20,7 @@ Recursos TIC para el aula
 
 * [ClassDojo](https://www.classdojo.com/es-es/)
 * [ClassCraft](http://www.classcraft.com/es/)
+* [Kahoot!](https://getkahoot.com/)
 
 ## Gestión de aula
 
