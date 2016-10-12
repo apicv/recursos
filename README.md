@@ -27,3 +27,7 @@ Recursos TIC para el aula
 * [Moodle](https://moodle.org/)
 * [Edmodo](https://www.edmodo.com/?language=es)
 * [Google Classroom](https://classroom.google.com/)
+
+## Vídeos
+
+* [Code.org Youtube playlists](https://www.youtube.com/user/CodeOrg/playlists)
