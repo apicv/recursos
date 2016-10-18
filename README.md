@@ -17,6 +17,7 @@ Recursos TIC para el aula
 ## Herramientas de creación de recursos
 
 * [Ren'Py](https://www.renpy.org/): motor de narraciones visuales interactivas
+* [phaser](https://phaser.io/): framework de juegos html5 para móviles y ordenadores
 
 ## Gamificación
 
