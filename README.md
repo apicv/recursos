@@ -25,6 +25,7 @@ Recursos TIC para el aula
 * [Hora del Código](https://hourofcode.com/es)
 * [Code Monkey](https://www.playcodemonkey.com/)
 * [Pixie](http://pixie.es/)
+* [Gamesonomy](http://www.gamesonomy.com/?lang=es)
 
 ## Cuentas twitter sobre recursos TIC
 
