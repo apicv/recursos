@@ -34,3 +34,15 @@ Recursos TIC para el aula
 ## Vídeos
 
 * [Code.org Youtube playlists](https://www.youtube.com/user/CodeOrg/playlists)
+
+## Concursos
+
+* [European Astro Pi Challenge](http://www.esa.int/Education/Teachers_Corner/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details)
+* [Concurs d'elaboració de llocs web](http://websalpunt.cat/)
+* [Wisibilízalas](https://portal.upf.edu/web/mdm-dtic/wisibilizalas)
+* [Cybercamp](https://cybercamp.es/)
+    * [CTF-individual](https://cybercamp.es/competiciones/ctf-individual)
+    * [CyberOlimpics](https://cybercamp.es/competiciones/cyberolympics)
+    * [Hackathon](https://cybercamp.es/competiciones/hackathon)
+    * [European Cyber Security Challenge 2016](https://cybercamp.es/competiciones/ECSC2016)
+    * [Torneo de desarrollo seguro de software](https://cybercamp.es/competiciones/desarrollo-seguro)
