@@ -49,6 +49,7 @@ Recursos TIC para el aula
 * [Google Classroom](https://classroom.google.com/)
 * [Scratch Teacher Accounts](https://scratch.mit.edu/educators/#teacher-accounts)
 * [Github Education Community](https://education.github.community/)
+* [Codecombat](https://codecombat.com/)
 
 ## Vídeos
 
