@@ -14,10 +14,17 @@ Recursos TIC para el aula
 
 * [Computer Science for Fun](http://www.cs4fn.org/)
 * [Computer Science Unplugged](http://csunplugged.org/)
+* [CS Education Week](https://csedweek.org/csteacher)
+* [Codecademy](https://www.codecademy.com/es)
+* [Computación - Khan Academy](https://es.khanacademy.org/computing)
 * [Google CS Education - Explore Resources](https://www.google.com/edu/cs/explore.html)
 * [Mozilla Teaching Activities](https://learning.mozilla.org/en-US/activities)
 * [Raspbery Pi Resources](https://www.raspberrypi.org/resources/)
 * [Code Studio](https://studio.code.org/)
+* [Recursos Code.org](https://code.org/learn)
+* [Hora del Código](https://hourofcode.com/es)
+* [Code Monkey](https://www.playcodemonkey.com/)
+* [Pixie](http://pixie.es/)
 
 ## Cuentas twitter sobre recursos TIC
 
