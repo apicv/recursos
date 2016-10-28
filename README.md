@@ -1,7 +1,7 @@
 # recursosTIC
 Recursos TIC para el aula
 
-## Sitios web sobre recursos TIC
+## Sitios web recopilatorios de recursos TIC
 
 * [educ@conTIC](http://www.educacontic.es/) del [INTEF](http://educalab.es/intef):
   
@@ -9,6 +9,15 @@ Recursos TIC para el aula
   * [Catálogo TIC](http://www.educacontic.es/catalogo-tic)
   
 * [Recopilación de recursos sobre Ciberacoso (principalmente de INTECO e INCIBE)](https://www.mecd.gob.es/educacion-mecd/mc/convivencia-escolar/recursos/materiales-otros-recursos/ciberacoso.html)
+
+## Sitios web de recursos TIC
+
+* [Computer Science for Fun](http://www.cs4fn.org/)
+* [Computer Science Unplugged](http://csunplugged.org/)
+* [Google CS Education - Explore Resources](https://www.google.com/edu/cs/explore.html)
+* [Mozilla Teaching Activities](https://learning.mozilla.org/en-US/activities)
+* [Raspbery Pi Resources](https://www.raspberrypi.org/resources/)
+* [Code Studio](https://studio.code.org/)
 
 ## Cuentas twitter sobre recursos TIC
 
@@ -30,6 +39,8 @@ Recursos TIC para el aula
 * [Moodle](https://moodle.org/)
 * [Edmodo](https://www.edmodo.com/?language=es)
 * [Google Classroom](https://classroom.google.com/)
+* [Scratch Teacher Accounts](https://scratch.mit.edu/educators/#teacher-accounts)
+* [Github Education Community](https://education.github.community/)
 
 ## Vídeos
 
