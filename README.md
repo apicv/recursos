@@ -26,6 +26,7 @@ Recursos TIC para el aula
 * [Code Monkey](https://www.playcodemonkey.com/)
 * [Pixie](http://pixie.es/)
 * [Gamesonomy](http://www.gamesonomy.com/?lang=es)
+* [CodeHero](http://codehero.co/)
 
 ## Libros
 
