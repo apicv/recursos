@@ -27,6 +27,10 @@ Recursos TIC para el aula
 * [Pixie](http://pixie.es/)
 * [Gamesonomy](http://www.gamesonomy.com/?lang=es)
 
+## Libros
+
+* [Libros libres](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md)
+
 ## Cuentas twitter sobre recursos TIC
 
 * [@educacontic](https://twitter.com/educacontic) del [@INTEF](https://twitter.com/educaintef)
