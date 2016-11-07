@@ -54,7 +54,7 @@ Recursos TIC para el aula
 * [Edmodo](https://www.edmodo.com/?language=es)
 * [Google Classroom](https://classroom.google.com/)
 * [Scratch Teacher Accounts](https://scratch.mit.edu/educators/#teacher-accounts)
-* [Github Education Community](https://education.github.community/)
+* [Github Education Community](https://education.github.community/) - [GitHub Education](https://education.github.com/)
 * [Codecombat](https://codecombat.com/)
 
 ## Vídeos
