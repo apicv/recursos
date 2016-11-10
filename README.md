@@ -42,6 +42,10 @@ Recursos TIC para el aula
 * [phaser](https://phaser.io/): framework de juegos html5 para móviles y ordenadores
 * [pilas engine](http://pilas-engine.com.ar/): motor para programar juegos de manera didáctica y divertida
 
+## Grabación de pantalla (Screencasting)
+
+* [Top 5 para Screencasting en Linux](http://blog.desdelinux.net/top-5-para-screencasting-en-linux/)
+
 ## Gamificación
 
 * [ClassDojo](https://www.classdojo.com/es-es/)
