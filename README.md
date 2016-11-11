@@ -42,9 +42,15 @@ Recursos TIC para el aula
 * [phaser](https://phaser.io/): framework de juegos html5 para móviles y ordenadores
 * [pilas engine](http://pilas-engine.com.ar/): motor para programar juegos de manera didáctica y divertida
 
-## Grabación de pantalla (Screencasting)
+## Grabación de pantalla (*screencasting*)
 
 * [Top 5 para Screencasting en Linux](http://blog.desdelinux.net/top-5-para-screencasting-en-linux/)
+* [The Screencasting Handbook](http://thescreencastinghandbook.com/)
+* [Consejos a tener en cuenta (inglés)](https://gist.github.com/Gregg/968534) - referencia de la guía [The Code School screencasting guide](https://www.codeschool.com/screencasting)
+
+### Herramientas de *screencasting*
+
+* [Open Broadcaster Software](https://obsproject.com/) (Linux, Windows y Mac)
 
 ## Gamificación
 
