@@ -82,4 +82,5 @@ Recursos TIC para el aula
     * [Torneo de desarrollo seguro de software](https://cybercamp.es/competiciones/desarrollo-seguro)
 * [European Astro Pi Challenge](http://www.esa.int/Education/Teachers_Corner/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details)
 * [Olimpiada Informática Española](https://olimpiada-informatica.org/)
+* [ProgramaMe: Concurso de Programación para Ciclos Formativos](http://programa-me.com/)
 * [Wisibilízalas](https://portal.upf.edu/web/mdm-dtic/wisibilizalas)
