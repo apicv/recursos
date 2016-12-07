@@ -28,6 +28,10 @@ Recursos TIC para el aula
 * [Gamesonomy](http://www.gamesonomy.com/?lang=es)
 * [CodeHero](http://codehero.co/)
 
+## Informática física (RPi, Arduino, etc.)
+
+* [Getting started with Raspberry Pi](https://opensource.com/article/16/12/getting-started-raspberry-pi)
+
 ## Libros
 
 * [Libros libres](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md)
