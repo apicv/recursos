@@ -30,7 +30,16 @@ Recursos TIC para el aula
 
 ## Informática física (RPi, Arduino, etc.)
 
+### Raspberry-Pi
+
 * [Getting started with Raspberry Pi](https://opensource.com/article/16/12/getting-started-raspberry-pi)
+* [Raspberry Pi en español](http://www.raspberryshop.es/)
+* [Foro de la comunidad hispana de Raspberry-Pi](http://www.raspberrypi-spanish.es/foro/)
+
+### Arduino
+
+* [Arduino](https://www.arduino.cc/)
+* [Scratch for Arduino](http://s4a.cat/index_es.html)
 
 ## Libros
 
