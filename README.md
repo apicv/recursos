@@ -59,6 +59,7 @@ Recursos TIC para el aula
 * [Ren'Py](https://www.renpy.org/): motor de narraciones visuales interactivas
 * [phaser](https://phaser.io/): framework de juegos html5 para móviles y ordenadores
 * [pilas engine](http://pilas-engine.com.ar/): motor para programar juegos de manera didáctica y divertida
+* [Aplicaciones para edición multimedia en Linux](http://www.technodyan.com/aplicaciones-edicion-multimedia-linux/)
 
 ## Grabación de pantalla (*screencasting*)
 
