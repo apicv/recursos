@@ -14,6 +14,7 @@ Recursos TIC para el aula
 
 * [Computer Science for Fun](http://www.cs4fn.org/)
 * [Computer Science Unplugged](http://csunplugged.org/)
+* [Kids, Code and Computer Science](https://www.kidscodecs.com/)
 * [CS Education Week](https://csedweek.org/csteacher)
 * [Codecademy](https://www.codecademy.com/es)
 * [Computación - Khan Academy](https://es.khanacademy.org/computing)
