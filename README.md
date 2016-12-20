@@ -92,6 +92,7 @@ Recursos TIC para el aula
 
 ## Concursos
 
+* [Bebras](http://bebras.org/) - International Challenge on Informatics and Computational Thinking
 * [Concurs d'elaboració de llocs web](http://websalpunt.cat/)
 * [Cybercamp](https://cybercamp.es/)
     * [CTF-individual](https://cybercamp.es/competiciones/ctf-individual)
