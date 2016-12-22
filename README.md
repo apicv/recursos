@@ -28,6 +28,7 @@ Recursos TIC para el aula
 * [Pixie](http://pixie.es/)
 * [Gamesonomy](http://www.gamesonomy.com/?lang=es)
 * [CodeHero](http://codehero.co/)
+* [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 
 ## Informática física (RPi, Arduino, etc.)
 
