@@ -94,6 +94,7 @@ Recursos TIC para el aula
   * [Unplugged Activities](https://www.youtube.com/playlist?list=PLzdnOPI1iJNerXmhWGR_V-8vWPe0v62DE)
 * [Computerphile](https://www.youtube.com/user/Computerphile/)
 * [Khan Academy Computing Youtube playlists](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA/playlists)
+* [School of Code youtube playlists](https://www.youtube.com/channel/UCINg1S61mpN7dZW8vR2ikCw/playlists)
 * [TheNewBoston youtube playlists](https://www.youtube.com/user/thenewboston/playlists)
 * [Classroom Ninja](https://www.youtube.com/channel/UCLBtrJ27GrzxX3_2xerBEXQ) - conversión binario-decimal-hexadecimal
 ## Concursos
