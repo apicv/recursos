@@ -91,6 +91,7 @@ Recursos TIC para el aula
 
 * [Code.org Youtube playlists](https://www.youtube.com/user/CodeOrg/playlists):
   * [How The Internet works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+  * [Unplugged Activities](https://www.youtube.com/playlist?list=PLzdnOPI1iJNerXmhWGR_V-8vWPe0v62DE)
 * [Computerphile](https://www.youtube.com/user/Computerphile/)
 * [Khan Academy Computing Youtube playlists](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA/playlists)
 
