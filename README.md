@@ -91,6 +91,7 @@ Recursos TIC para el aula
 
 * [Code.org Youtube playlists](https://www.youtube.com/user/CodeOrg/playlists)
 * [Computerphile](https://www.youtube.com/user/Computerphile/)
+* [Khan Academy Computing Youtube playlists](https://www.youtube.com/channel/UCye0TMXdb_zdfvVgXA0XtkA/playlists)
 
 ## Concursos
 
