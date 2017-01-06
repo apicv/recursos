@@ -90,6 +90,7 @@ Recursos TIC para el aula
 ## Vídeos
 
 * [Code.org Youtube playlists](https://www.youtube.com/user/CodeOrg/playlists)
+* [Computerphile](https://www.youtube.com/user/Computerphile/)
 
 ## Concursos
 
