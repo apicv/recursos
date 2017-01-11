@@ -29,6 +29,7 @@ Recursos TIC para el aula
 * [Gamesonomy](http://www.gamesonomy.com/?lang=es)
 * [CodeHero](http://codehero.co/)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
+* [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
 
 ## Informática física (RPi, Arduino, etc.)
 
