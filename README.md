@@ -51,6 +51,7 @@ Recursos TIC para el aula
 ## Libros
 
 * [Libros libres](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md)
+* [Open Libra](https://openlibra.com/es/collection)
 
 ## Cuentas twitter sobre recursos TIC
 
