@@ -40,6 +40,10 @@ Recursos TIC para el aula
 * [AppInventor](http://appinventor.mit.edu/explore/)
 * [Blockly](https://developers.google.com/blockly/) - [Juegos en Blockly](https://blockly-games.appspot.com/)
 
+## Informática musical
+
+* [Sonic-Pi](http://sonic-pi.net/)
+
 ## Informática física (RPi, Arduino, etc.)
 
 ### Raspberry-Pi
