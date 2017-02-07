@@ -42,6 +42,7 @@ Recursos TIC para el aula
 
 ## Informática musical
 
+* [EarSketch](https://earsketch.gatech.edu/)
 * [Sonic-Pi](http://sonic-pi.net/)
 
 ## Informática física (RPi, Arduino, etc.)
