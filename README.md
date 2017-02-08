@@ -115,6 +115,8 @@ Recursos TIC para el aula
 * [TheNewBoston youtube playlists](https://www.youtube.com/user/thenewboston/playlists)
 * [The Nature of Code: Simulating Natural Systems with Processing](https://www.youtube.com/user/shiffman/playlists?shelf_id=6&view=50&sort=dd)
 * [Classroom Ninja](https://www.youtube.com/channel/UCLBtrJ27GrzxX3_2xerBEXQ) - conversión binario-decimal-hexadecimal
+* [Udacity youtube playlists](https://www.youtube.com/user/Udacity/playlists)
+* [TED-Ed Cyber-Influence & Power youtube playlist](https://www.youtube.com/playlist?list=PLJicmE8fK0EjmM_h5SlfvmbW_ZxKjLzHR)
 
 ## Concursos
 
