@@ -93,7 +93,7 @@ Recursos TIC para el aula
 
 * [ClassDojo](https://www.classdojo.com/es-es/)
 * [ClassCraft](http://www.classcraft.com/es/)
-* [Kahoot!](https://getkahoot.com/)
+* [Kahoot!](https://getkahoot.com/) - [Guía para crear juegos](https://files.getkahoot.com/academy/Kahoot_Academy_Guide_1st_Ed_-_September_2016.pdf) (en inglés)
 
 ## Gestión de aula
 
