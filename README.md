@@ -1,7 +1,8 @@
-# recursosTIC
-Recursos TIC para el aula
+# Recursos
 
-## Sitios web recopilatorios de recursos TIC
+Recursos para el aula de Informática
+
+## Sitios web recopilatorios de recursos
 
 * [educ@conTIC](http://www.educacontic.es/) del [INTEF](http://educalab.es/intef):
   
@@ -34,7 +35,7 @@ Recursos TIC para el aula
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
 
-## Programación por bloques
+## Programación visual (por bloques)
 
 * [Scratch](https://scratch.mit.edu/)
 * [AppInventor](http://appinventor.mit.edu/explore/)
