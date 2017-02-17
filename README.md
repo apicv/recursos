@@ -131,6 +131,7 @@ Recursos para el aula de Informática
     * [Hackathon](https://cybercamp.es/competiciones/hackathon)
     * [European Cyber Security Challenge 2016](https://cybercamp.es/competiciones/ECSC2016)
     * [Torneo de desarrollo seguro de software](https://cybercamp.es/competiciones/desarrollo-seguro)
+* [El gusto de investigar](https://sites.google.com/site/elgustodeinvestigar/)
 * [European Astro Pi Challenge](http://www.esa.int/Education/Teachers_Corner/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details)
 * [HackForGood Alicante](http://hackforgood.net/category/alicante/) - [HackForGood Valencia](http://hackforgood.net/hackforgood-valencia-ya-esta-aqui/)
 * [Olimpiada Informática Española](https://olimpiada-informatica.org/)
