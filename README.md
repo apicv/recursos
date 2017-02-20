@@ -2,17 +2,16 @@
 
 Recursos para el aula de Informática
 
-## Sitios web recopilatorios de recursos
+## Sitios web recopilatorios de sitios de recursos
 
 * [educ@conTIC](http://www.educacontic.es/) del [INTEF](http://educalab.es/intef):
   
 * [Recursos TIC en el blog](http://www.educacontic.es/blog/recursos-tic)
   * [Catálogo TIC](http://www.educacontic.es/catalogo-tic)
   
-* [Recopilación de recursos sobre Ciberacoso (principalmente de INTECO e INCIBE)](https://www.mecd.gob.es/educacion-mecd/mc/convivencia-escolar/recursos/materiales-otros-recursos/ciberacoso.html)
-
 ## Sitios web de recursos sobre Informática (y Programación)
 
+* [Recopilación de recursos sobre Ciberacoso (principalmente de INTECO e INCIBE)](https://www.mecd.gob.es/educacion-mecd/mc/convivencia-escolar/recursos/materiales-otros-recursos/ciberacoso.html)
 * [Computer Science for Fun](http://www.cs4fn.org/)
 * [Computer Science Unplugged](http://csunplugged.org/)
 * [Kids, Code and Computer Science](https://www.kidscodecs.com/)
