@@ -125,6 +125,7 @@ Recursos para el aula de Informática
 * [Udacity youtube playlists](https://www.youtube.com/user/Udacity/playlists)
 * [TED-Ed Cyber-Influence & Power youtube playlist](https://www.youtube.com/playlist?list=PLJicmE8fK0EjmM_h5SlfvmbW_ZxKjLzHR)
 * [The Hello World Program](https://www.youtube.com/user/helloworldprogram/)
+* [App Inventor 2](https://www.youtube.com/playlist?list=PLoq0YHvpcFc4rSIM20-E9HLuYw84M9mhg)
 
 ## Concursos
 
