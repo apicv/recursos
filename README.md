@@ -37,6 +37,7 @@ Recursos para el aula de Informática
 * [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
 * [Computing at School Community Resources](https://community.computingatschool.org.uk/resources)
 * [Open Source Guides](https://opensource.guide/)
+* [Interneting is Hard](https://internetingishard.com/) - HTML y CSS
 
 ## Programación visual (por bloques)
 
