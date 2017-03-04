@@ -44,6 +44,7 @@ Recursos para el aula de Informática
 * [Scratch](https://scratch.mit.edu/)
 * [AppInventor](http://appinventor.mit.edu/explore/)
 * [Blockly](https://developers.google.com/blockly/) - [Juegos en Blockly](https://blockly-games.appspot.com/)
+* [Pencil Code](https://pencilcode.net/)
 
 ## Informática musical
 
