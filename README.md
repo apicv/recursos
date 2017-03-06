@@ -85,6 +85,7 @@ Recursos para el aula de Informática
 * [pilas engine](http://pilas-engine.com.ar/): motor para programar juegos de manera didáctica y divertida
 * [Aplicaciones para edición multimedia en Linux](http://www.technodyan.com/aplicaciones-edicion-multimedia-linux/)
 * [You-Get](https://you-get.org/): descarga de vídeos y audios
+* [EdPuzzle](https://edpuzzle.com/): construye tus propios vídeos educativos a partir de otros
 
 ## Grabación de pantalla (*screencasting*)
 
