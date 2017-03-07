@@ -93,6 +93,7 @@ Recursos para el aula de Informática
 * [Top 5 para Screencasting en Linux](http://blog.desdelinux.net/top-5-para-screencasting-en-linux/)
 * [The Screencasting Handbook](http://thescreencastinghandbook.com/)
 * [Consejos a tener en cuenta (inglés)](https://gist.github.com/Gregg/968534) - referencia de la guía [The Code School screencasting guide](https://www.codeschool.com/screencasting)
+* [ttygif](https://github.com/sugyan/ttygif): grabación de sesión de terminal en GIF animado
 
 ### Herramientas de *screencasting*
 
