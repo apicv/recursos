@@ -29,6 +29,7 @@ Recursos para el aula de Informática
 * [Code Studio](https://studio.code.org/)
 * [Recursos Code.org](https://code.org/learn)
 * [Hora del Código](https://hourofcode.com/es)
+* [CS-First (Google)](https://www.cs-first.com/)
 * [Code Monkey](https://www.playcodemonkey.com/)
 * [Pixie](http://pixie.es/)
 * [Gamesonomy](http://www.gamesonomy.com/?lang=es)
