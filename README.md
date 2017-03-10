@@ -156,4 +156,5 @@ Recursos para el aula de Informática
 * [HackForGood Alicante](http://hackforgood.net/category/alicante/) - [HackForGood Valencia](http://hackforgood.net/hackforgood-valencia-ya-esta-aqui/)
 * [Olimpiada Informática Española](https://olimpiada-informatica.org/)
 * [ProgramaMe: Concurso de Programación para Ciclos Formativos](http://programa-me.com/)
+* [Robotet](http://imasdtecnologia.com/robotet/) - Concurso de Robótica del IES Rodrigo Botet (Manises)
 * [Wisibilízalas](https://portal.upf.edu/web/mdm-dtic/wisibilizalas)
