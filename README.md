@@ -106,6 +106,7 @@ Recursos para el aula de Informática
 * [ClassDojo](https://www.classdojo.com/es-es/)
 * [ClassCraft](http://www.classcraft.com/es/)
 * [Kahoot!](https://getkahoot.com/) - [Guía para crear juegos](https://files.getkahoot.com/academy/Kahoot_Academy_Guide_1st_Ed_-_September_2016.pdf) (en inglés)
+* [Socrative](https://www.socrative.com/)
 
 ## Gestión de aula
 
