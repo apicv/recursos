@@ -13,6 +13,7 @@ Recursos para el aula de Informática
 
 * [Material Curricular Libre](http://mclibre.org/)
 * [Recopilaciones de Software Libre](http://www.cdlibre.org/)
+* [Cursos del IES Gonzalo Nazareno](http://informatica.gonzalonazareno.org/plataforma/)
 * [Recopilación de recursos sobre Ciberacoso (principalmente de INTECO e INCIBE)](https://www.mecd.gob.es/educacion-mecd/mc/convivencia-escolar/recursos/materiales-otros-recursos/ciberacoso.html)
 * [Computer Science for Fun](http://www.cs4fn.org/)
 * [Computer Science Unplugged](http://csunplugged.org/)
