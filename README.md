@@ -24,7 +24,6 @@ Recursos para el aula de Informática
 * [The National Museum of Computing (R.U.)](http://www.tnmoc.org/)
 * [Museo de Informática (U.P.V.)](http://museo.inf.upv.es/)
 * [CS Education Week](https://csedweek.org/csteacher)
-* [Codecademy](https://www.codecademy.com/es)
 * [Computación - Khan Academy](https://es.khanacademy.org/computing)
 * [Google CS Education - Explore Resources](https://www.google.com/edu/cs/explore.html)
 * [Mozilla Teaching Activities](https://learning.mozilla.org/en-US/activities)
@@ -35,7 +34,6 @@ Recursos para el aula de Informática
 * [CS-First (Google)](https://www.cs-first.com/)
 * [Code Monkey](https://www.playcodemonkey.com/)
 * [Pixie](http://pixie.es/)
-* [Gamesonomy](http://www.gamesonomy.com/?lang=es)
 * [CodeHero](http://codehero.co/)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
@@ -46,9 +44,22 @@ Recursos para el aula de Informática
 ## Programación visual (por bloques)
 
 * [Scratch](https://scratch.mit.edu/)
-* [AppInventor](http://appinventor.mit.edu/explore/)
 * [Blockly](https://developers.google.com/blockly/) - [Juegos en Blockly](https://blockly-games.appspot.com/)
 * [Pencil Code](https://pencilcode.net/)
+
+## Programación de juegos
+
+* [Codecademy](https://www.codecademy.com/es)
+* [pilas engine](http://pilas-engine.com.ar/): motor para programar juegos de manera didáctica y divertida
+* [Ren'Py](https://www.renpy.org/): motor de narraciones visuales interactivas
+* [Twine](https://twinery.org/): herramienta libre para crear historias interactivas y no lineales
+* [Toontastic 3D](https://toontastic.withgoogle.com/): motor de narraciones visuales en 3D
+
+## Programación móviles
+
+* [AppInventor](http://appinventor.mit.edu/explore/)
+* [phaser](https://phaser.io/): framework de juegos html5 para móviles y ordenadores
+* [TouchDevelop](https://www.touchdevelop.com/): crear apps en el móvil, tablet o portátil (iOS, Android, Windows, Mac o Linux)
 
 ## Informática musical
 
@@ -81,14 +92,8 @@ Recursos para el aula de Informática
 
 * [@educacontic](https://twitter.com/educacontic) del [@INTEF](https://twitter.com/educaintef)
 
-## Herramientas de creación de recursos
+## Herramientas de creación de recursos audiovisuales
 
-* [Ren'Py](https://www.renpy.org/): motor de narraciones visuales interactivas
-* [Twine](https://twinery.org/): herramienta libre para crear historias interactivas y no lineales
-* [Toontastic 3D](https://toontastic.withgoogle.com/): motor de narraciones visuales en 3D
-* [phaser](https://phaser.io/): framework de juegos html5 para móviles y ordenadores
-* [pilas engine](http://pilas-engine.com.ar/): motor para programar juegos de manera didáctica y divertida
-* [TouchDevelop](https://www.touchdevelop.com/): crear apps en el móvil, tablet o portátil (iOS, Android, Windows, Mac o Linux)
 * [Aplicaciones para edición multimedia en Linux](http://www.technodyan.com/aplicaciones-edicion-multimedia-linux/)
 * [You-Get](https://you-get.org/): descarga de vídeos y audios
 * [EdPuzzle](https://edpuzzle.com/): construye tus propios vídeos educativos a partir de otros
