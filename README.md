@@ -97,6 +97,7 @@ Recursos para el aula de Informática
 * [Aplicaciones para edición multimedia en Linux](http://www.technodyan.com/aplicaciones-edicion-multimedia-linux/)
 * [You-Get](https://you-get.org/): descarga de vídeos y audios
 * [EdPuzzle](https://edpuzzle.com/): construye tus propios vídeos educativos a partir de otros
+* [H5P](https://h5p.org/): Crea contenido en HTML5 (presentaciones interactivas)
 
 ## Grabación de pantalla (*screencasting*)
 
