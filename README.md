@@ -16,30 +16,38 @@ Recursos para el aula de Informática
 * [Cursos del IES Gonzalo Nazareno](http://informatica.gonzalonazareno.org/plataforma/)
 * [Apuntes ASIR (mareaverde)](http://www.apuntesmareaverde.org.es/grupos/inf/)
 * [Recopilación de recursos sobre Ciberacoso (principalmente de INTECO e INCIBE)](https://www.mecd.gob.es/educacion-mecd/mc/convivencia-escolar/recursos/materiales-otros-recursos/ciberacoso.html)
-* [Computer Science for Fun](http://www.cs4fn.org/)
-* [Computer Science Unplugged](http://csunplugged.org/)
-* [Computer Science Field Guide](http://www.csfieldguide.org.nz/)
-* [Kids, Code and Computer Science](https://www.kidscodecs.com/)
-* [Computer History Museum (EE.UU.)](http://www.computerhistory.org/)
-* [The National Museum of Computing (R.U.)](http://www.tnmoc.org/)
-* [Museo de Informática (U.P.V.)](http://museo.inf.upv.es/)
-* [CS Education Week](https://csedweek.org/csteacher)
 * [Computación - Khan Academy](https://es.khanacademy.org/computing)
+* [Hora del Código](https://hourofcode.com/es)
+* [Pixie](http://pixie.es/)
+* [CodeHero](http://codehero.co/)
+* [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
+
+
+### En inglés
+
+* [Computer Science for Fun](http://www.cs4fn.org/)
+* [Computer Science Field Guide](http://www.csfieldguide.org.nz/)
+* [Computer Science Unplugged](http://csunplugged.org/)
+* [Computing - Khan Academy](https://khanacademy.org/computing)
+* [CS Education Week](https://csedweek.org/csteacher)
 * [Google CS Education - Explore Resources](https://www.google.com/edu/cs/explore.html)
 * [Mozilla Teaching Activities](https://learning.mozilla.org/en-US/activities)
 * [Raspbery Pi Resources](https://www.raspberrypi.org/resources/)
 * [Code Studio](https://studio.code.org/)
 * [Recursos Code.org](https://code.org/learn)
-* [Hora del Código](https://hourofcode.com/es)
+* [Kids, Code and Computer Science](https://www.kidscodecs.com/)
 * [CS-First (Google)](https://www.cs-first.com/)
 * [Code Monkey](https://www.playcodemonkey.com/)
-* [Pixie](http://pixie.es/)
-* [CodeHero](http://codehero.co/)
-* [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
-* [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
 * [Computing at School Community Resources](https://community.computingatschool.org.uk/resources)
 * [Open Source Guides](https://opensource.guide/)
 * [Interneting is Hard](https://internetingishard.com/) - HTML y CSS
+* [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
+
+### Museos
+
+* [Museo de Informática (U.P.V.)](http://museo.inf.upv.es/)
+* [Computer History Museum (EE.UU.)](http://www.computerhistory.org/)
+* [The National Museum of Computing (R.U.)](http://www.tnmoc.org/)
 
 ## Programación visual (por bloques)
 
