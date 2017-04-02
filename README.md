@@ -98,6 +98,7 @@ Recursos para el aula de Informática
 * [You-Get](https://you-get.org/): descarga de vídeos y audios
 * [EdPuzzle](https://edpuzzle.com/): construye tus propios vídeos educativos a partir de otros
 * [H5P](https://h5p.org/): Crea contenido en HTML5 (presentaciones interactivas)
+* [impress.js](https://github.com/impress/impress.js): presentaciones estilo Prezi basadas en estándares abiertos
 
 ## Grabación de pantalla (*screencasting*)
 
