@@ -63,6 +63,7 @@ Recursos para el aula de Informática
 * [Twine](https://twinery.org/): herramienta libre para crear historias interactivas y no lineales
 * [Toontastic 3D](https://toontastic.withgoogle.com/): motor de narraciones visuales en 3D
 * [Stencyl](http://www.stencyl.com/): herramienta para crear juegos en 2D
+* [WoofJS](http://woofjs.com/): programa juegos online con JavaScript
 
 ## Programación móviles
 
