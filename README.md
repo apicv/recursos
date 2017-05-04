@@ -83,6 +83,7 @@ Recursos para el aula de Informática
 * [Getting started with Raspberry Pi](https://opensource.com/article/16/12/getting-started-raspberry-pi)
 * [Raspberry Pi en español](http://www.raspberryshop.es/)
 * [Foro de la comunidad hispana de Raspberry-Pi](http://www.raspberrypi-spanish.es/foro/)
+* [Coder for Raspberry Pi](https://googlecreativelab.github.io/coder/)
 
 ### Arduino
 
