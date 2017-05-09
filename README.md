@@ -54,6 +54,7 @@ Recursos para el aula de Informática
 * [Scratch](https://scratch.mit.edu/)
 * [Blockly](https://developers.google.com/blockly/) - [Juegos en Blockly](https://blockly-games.appspot.com/)
 * [Pencil Code](https://pencilcode.net/)
+* [NetsBlox](https://netsblox.org/)
 
 ## Programación de juegos
 
