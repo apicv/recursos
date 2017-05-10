@@ -22,7 +22,6 @@ Recursos para el aula de Informática
 * [CodeHero](http://codehero.co/)
 * [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
 
-
 ### En inglés
 
 * [Computer Science for Fun](http://www.cs4fn.org/)
@@ -42,6 +41,7 @@ Recursos para el aula de Informática
 * [Open Source Guides](https://opensource.guide/)
 * [Interneting is Hard](https://internetingishard.com/) - HTML y CSS
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
+* [PC Building Simulator](https://mcintyre.itch.io/pc-building-simulator)
 
 ### Museos
 
