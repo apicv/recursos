@@ -113,6 +113,7 @@ Recursos para el aula de Informática
 * [H5P](https://h5p.org/): Crea contenido en HTML5 (presentaciones interactivas)
 * [reveal.js](https://github.com/hakimel/reveal.js): presentaciones HTML
 * [impress.js](https://github.com/impress/impress.js): presentaciones animadas estilo Prezi mediante estándares abiertos
+* [Oppia](https://www.oppia.org): Tool for collaboratively building interactive lessons
 
 ## Grabación de pantalla (*screencasting*)
 
