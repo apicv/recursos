@@ -43,6 +43,7 @@ Recursos para el aula de Informática
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [PC Building Simulator](https://mcintyre.itch.io/pc-building-simulator)
 * [hackr.io](https://hackr.io/)
+* [Be Internet Awesome](https://beinternetawesome.withgoogle.com/) - Digital Citizenship
 
 ### Museos
 
