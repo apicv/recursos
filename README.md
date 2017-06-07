@@ -44,6 +44,8 @@ Recursos para el aula de Informática
 * [PC Building Simulator](https://mcintyre.itch.io/pc-building-simulator)
 * [hackr.io](https://hackr.io/)
 * [Be Internet Awesome](https://beinternetawesome.withgoogle.com/) - Digital Citizenship
+* [Computing At School](https://www.computingatschool.org.uk/) (UK)
+* [K–12 Computer Science Framework](https://k12cs.org/) (USA)
 
 ### Museos
 
