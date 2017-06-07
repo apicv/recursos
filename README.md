@@ -148,7 +148,6 @@ Recursos para el aula de Informática
 * [Google Classroom](https://classroom.google.com/)
 * [Scratch Teacher Accounts](https://scratch.mit.edu/educators/#teacher-accounts)
 * [Github Education Community](https://education.github.community/) - [GitHub Education](https://education.github.com/)
-* [Codecombat](https://codecombat.com/)
 
 ## Vídeos
 
