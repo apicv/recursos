@@ -22,6 +22,7 @@ Recursos para el aula de Informática
 * [CodeHero](http://codehero.co/)
 * [Unidades Didácticas, Presentaciones y Guiones para trabajar a nivel educativo el uso seguro y responsable de Internet](https://menores.osi.es/escuela-cibersegura/programa-jornadas-escolares-uso-seguro-y-responsable-red/descargar-materiales)
 * [Pantallas Amigas](http://www.pantallasamigas.net/) -  promoción del uso seguro y saludable de las nuevas tecnologías y el fomento de la ciudadanía digital responsable en la infancia y la adolescencia.
+* [Juegos de Informática](http://www.sopasletras.com/preguntas-informatica.html)
 
 ### En inglés
 
