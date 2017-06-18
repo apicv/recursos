@@ -186,4 +186,5 @@ Recursos para el aula de Informática
 * [Olimpiada Informática Española](https://olimpiada-informatica.org/)
 * [ProgramaMe: Concurso de Programación para Ciclos Formativos](http://programa-me.com/)
 * [Robotet](http://imasdtecnologia.com/robotet/) - Concurso de Robótica del IES Rodrigo Botet (Manises)
+* [Spain Skills](http://www.todofp.es/sobre-fp/competiciones-de-fp.html) - Competiciones de Formación Profesional
 * [Wisibilízalas](https://portal.upf.edu/web/mdm-dtic/wisibilizalas)
