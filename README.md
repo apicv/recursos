@@ -138,6 +138,7 @@ Recursos para el aula de Informática
 * [Kahoot!](https://getkahoot.com/) - [Guía para crear juegos](https://files.getkahoot.com/academy/Kahoot_Academy_Guide_1st_Ed_-_September_2016.pdf) (en inglés)
 * [Socrative](https://www.socrative.com/)
 * [CodeCombat](https://codecombat.com/)
+* [Commandline Challenge](https://cmdchallenge.com/)
 
 ### Flashcards
 
