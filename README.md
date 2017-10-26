@@ -119,6 +119,7 @@ Recursos para el aula de Informática
 * [reveal.js](https://github.com/hakimel/reveal.js): presentaciones HTML
 * [impress.js](https://github.com/impress/impress.js): presentaciones animadas estilo Prezi mediante estándares abiertos
 * [Oppia](https://www.oppia.org): Tool for collaboratively building interactive lessons
+* [Sample Focus](https://samplefocus.com/): Samples de audio libres de royalties
 
 ## Grabación de pantalla (*screencasting*)
 
