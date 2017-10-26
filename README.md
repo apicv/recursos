@@ -122,6 +122,7 @@ Recursos para el aula de Informática
 * [impress.js](https://github.com/impress/impress.js): presentaciones animadas estilo Prezi mediante estándares abiertos
 * [Oppia](https://www.oppia.org): Tool for collaboratively building interactive lessons
 * [Sample Focus](https://samplefocus.com/): Samples de audio libres de royalties
+* [Creative Commons Media](https://github.com/shime/creative-commons-media): listado de recursos con licencia CC
 
 ## Grabación de pantalla (*screencasting*)
 
