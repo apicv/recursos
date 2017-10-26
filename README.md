@@ -49,11 +49,13 @@ Recursos para el aula de Informática
 * [Computing At School](https://www.computingatschool.org.uk/) (UK)
 * [K–12 Computer Science Framework](https://k12cs.org/) (USA)
 
-### Museos
+### Historia
 
 * [Museo de Informática (U.P.V.)](http://museo.inf.upv.es/)
 * [Computer History Museum (EE.UU.)](http://www.computerhistory.org/)
 * [The National Museum of Computing (R.U.)](http://www.tnmoc.org/)
+* [History of Information](http://HistoryofInformation.com)
+* [Awesome list of Computer History](https://github.com/watson/awesome-computer-history)
 
 ## Programación visual (por bloques)
 
