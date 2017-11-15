@@ -177,7 +177,7 @@ Recursos para el aula de Informática
 
 ## Concursos
 
-* [Bebras](http://bebras.org/) - International Challenge on Informatics and Computational Thinking
+* [Bebras](http://bebras.org/) - International Challenge on Informatics and Computational Thinking - [Bebras España](http://bebras.ehu.eus/)
 * [Concurs d'elaboració de llocs web](http://websalpunt.cat/)
 * [Cybercamp](https://cybercamp.es/)
     * [CTF-individual](https://cybercamp.es/competiciones/ctf-individual)
