@@ -187,6 +187,7 @@ Recursos para el aula de Informática
     * [Torneo de desarrollo seguro de software](https://cybercamp.es/competiciones/desarrollo-seguro)
 * [El gusto de investigar](https://sites.google.com/site/elgustodeinvestigar/)
 * [European Astro Pi Challenge](http://www.esa.int/Education/Teachers_Corner/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details)
+* [Google Code-in](https://codein.withgoogle.com/)
 * [HackForGood Alicante](http://hackforgood.net/alicante/) - [HackForGood Valencia](http://hackforgood.net/valencia/)
 * [Olimpiada Informática Española](https://olimpiada-informatica.org/)
 * [ProgramaMe: Concurso de Programación para Ciclos Formativos](http://programa-me.com/)
