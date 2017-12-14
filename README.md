@@ -124,6 +124,14 @@ Recursos para el aula de Informática
 * [Sample Focus](https://samplefocus.com/): Samples de audio libres de royalties
 * [Creative Commons Media](https://github.com/shime/creative-commons-media): listado de recursos con licencia CC
 
+### Edición de vídeo
+
+* [OpenShot](https://es.openshot.org/)
+* [KDEnlive](https://kdenlive.org/)
+* [Shotcut](https://www.shotcut.org/)
+* [Avidemux](http://avidemux.sourceforge.net/)
+* [Pitivi](http://www.pitivi.org/)
+
 ## Grabación de pantalla (*screencasting*)
 
 * [Top 5 para Screencasting en Linux](http://blog.desdelinux.net/top-5-para-screencasting-en-linux/)
