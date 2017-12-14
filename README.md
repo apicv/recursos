@@ -132,6 +132,10 @@ Recursos para el aula de Informática
 * [Avidemux](http://avidemux.sourceforge.net/)
 * [Pitivi](http://www.pitivi.org/)
 
+### Edición de audio
+
+* [Audacity](http://www.audacityteam.org/)
+
 ## Grabación de pantalla (*screencasting*)
 
 * [Top 5 para Screencasting en Linux](http://blog.desdelinux.net/top-5-para-screencasting-en-linux/)
