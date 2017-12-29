@@ -123,6 +123,7 @@ Recursos para el aula de Informática
 * [Oppia](https://www.oppia.org): Tool for collaboratively building interactive lessons
 * [Sample Focus](https://samplefocus.com/): Samples de audio libres de royalties
 * [Creative Commons Media](https://github.com/shime/creative-commons-media): listado de recursos con licencia CC
+* [Storyboarder](https://wonderunit.com/storyboarder/): herramienta para hacer guiones gráficos
 
 ### Edición de vídeo
 
