@@ -202,6 +202,7 @@ Recursos para el aula de Informática
 * [European Astro Pi Challenge](http://www.esa.int/Education/Teachers_Corner/European_Astro_Pi_Challenge_Code_your_ISS_experiment_-_more_details)
 * [Google Code-in](https://codein.withgoogle.com/)
 * [HackForGood Alicante](http://hackforgood.net/alicante/) - [HackForGood Valencia](http://hackforgood.net/valencia/)
+* [Hash Code | Google](https://hashcode.withgoogle.com/)
 * [Olimpiada Informática Española](https://olimpiada-informatica.org/)
 * [ProgramaMe: Concurso de Programación para Ciclos Formativos](http://programa-me.com/)
 * [Robotet](http://imasdtecnologia.com/robotet/) - Concurso de Robótica del IES Rodrigo Botet (Manises)
